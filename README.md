@@ -36,6 +36,9 @@
      - Insert a line before it.
      - Start typing **game**
      - It should pop up with suggestion including **GameObject**, **GamepadSpeakerOutputType** etc. That's how you know it's working
+     ![alt text](https://user-images.githubusercontent.com/124315920/235380541-e702da69-514b-4e4c-8ca8-4c0127fd82d2.png)
+
+     
      
 
 # Learn
