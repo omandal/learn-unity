@@ -1,4 +1,4 @@
-# learn-unity
+# Learn-unity
 
 # Installation
 1. Install dotnet https://dotnet.microsoft.com/en-us/download
@@ -12,9 +12,16 @@
    - Will take 15 minutes. Wait till done.
 3. Create a new project from samples
    - On Unity Hub, click Projects -> New project
-   - On the left side of the window, click on **Learning**, then **2D Platformer Microgame**. Let it download
-   - On the right third give project name **2dmicro**
-   - Hit **Create project** button. It will take 8 or so minutes
+   - On the left side of the window, click on **Core**, then **2D Core**.
+   - On the right hand side of the screen, give project name **flappy**
+   - Hit **Create project** button. It will take a minute or two
+   - It should open up a window with 5 panes
+     - Hierarchy
+     - Scene/Game (with Scene being chosen)
+     - Inspector
+     - Project/Console (with Project being selected)
+     - Assets (actually a sub pane of Project)
+   - Right click on the **Assets** window, do: **Create** -> **C# Script**
    - Click on **Load Scene**
    - Hit **Command ,** to get into settings
    - Modify **External Tools** -> **External Script Editor**. Choose **Visual Studio Code**
