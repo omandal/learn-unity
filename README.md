@@ -22,6 +22,7 @@
      - Project/Console (with Project being selected)
      - Assets (actually a sub pane of Project)
    - Right click on the **Assets** window, do: **Create** -> **C# Script**
+   - Name the scrit **whatever**
    - Click on **Load Scene**
    - Hit **Command ,** to get into settings
    - Modify **External Tools** -> **External Script Editor**. Choose **Visual Studio Code**
